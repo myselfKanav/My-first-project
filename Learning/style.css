@@ -1,0 +1,32 @@
+body{
+    background-color: #F7E2E2;
+}
+
+.website__navBar{
+    border-radius: 7px;
+    display: flex;
+    background-color: #61A4BC;
+    justify-content: space-between;
+}
+
+.navBar__image{
+    border-radius: 7px;
+    width: 150px;
+    margin-right: 20px;
+}
+
+.navBar__branding{
+    display: flex;
+}
+
+.navBar__title{
+    color: #1A132F;
+}
+
+.projects__title{
+    text-align: center;
+}
+
+.contact__title{
+    text-align: center;
+}
